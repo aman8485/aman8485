@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Aman Dixit
 
-<!--
-**aman8485/aman8485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 React Developer  
+🚀 Aspiring Software Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Tech Stack
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+
+---
+
+## 📊 GitHub Stats
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman8485&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=aman8485&theme=radical)
+
+---
+
+## 📫 Connect with me
+- Email: your-email@gmail.com
